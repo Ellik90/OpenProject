@@ -7,7 +7,7 @@ using MySqlConnector;
 
 namespace OpenProject.Controllers;
 
-[Route("api/[controller]")]
+[Route("/")]
 [ApiController]
 public class OpenProjectItemsController : ControllerBase
 {
